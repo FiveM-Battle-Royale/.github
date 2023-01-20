@@ -3,6 +3,6 @@
 Hi there 👋! This is the FiveM Battle Royale Github page.<br>Powered by [Innovative Studios](https://iv-studios.net)
 
 ## Important Links
-**Discord Server** [Battle Royale Discord](https://discord.fivembr.net)<br>
+**Discord Server:** [Battle Royale Discord](https://discord.fivembr.net)<br>
 **Our Website:** [Website](https://fivembr.net)<br>
-**Store** [Store(Tebex)](https://store.fivembr.net)
+**Store:** [Store(Tebex)](https://store.fivembr.net)
